@@ -1,0 +1,1 @@
+INSERT INTO usuario (NOMBRE, TIPO_USUARIO_ID, USUARIO, CONTRASENA, APELLIDO) VALUES (:nombre, :tipo_usuario_id, :usuario, :contrasena, :apellido)
